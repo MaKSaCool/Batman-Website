@@ -1,3 +1,2 @@
-src/*
-dist/sass/*
-/dist/css/style.min.css.map
+sass/*
+css/style.min.css.map
